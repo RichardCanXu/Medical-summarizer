@@ -1,5 +1,4 @@
 """
-Your task is to implement `create_consult_letter` function to generate a consult letter based on the SOAP note.
 
 The input parameters are:
 - user_info: a dictionary contains the bio of the doctor, such as
