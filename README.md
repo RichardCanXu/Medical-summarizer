@@ -1,1 +1,1 @@
-This will take info from patients and visits and summarize them into a letter 
+This program takes info from patients and doctor visits and summarizes them into a letter 
